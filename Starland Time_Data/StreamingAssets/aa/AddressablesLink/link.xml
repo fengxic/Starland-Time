@@ -1,0 +1,40 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="GameGuideFinish_SO" preserve="all" />
+    <type fullname="GetItems_SO" preserve="all" />
+    <type fullname="GetMoney_SO" preserve="all" />
+    <type fullname="InventoryBag_SO" preserve="all" />
+    <type fullname="NPCFunction_SO" preserve="all" />
+    <type fullname="RandomGetItemOnce_SO" preserve="all" />
+    <type fullname="ScheduleDetialsLIst_SO" preserve="all" />
+    <type fullname="SwitchMutiSchedule_SO" preserve="all" />
+    <type fullname="SwitchSchedule_SO" preserve="all" />
+    <type fullname="TeleportControl_SO" preserve="all" />
+    <type fullname="InventoryItem" preserve="nothing" serialized="true" />
+    <type fullname="ProjectFarm.Dialogue.DialoguePiece" preserve="nothing" serialized="true" />
+    <type fullname="ScheduleDetailList" preserve="nothing" serialized="true" />
+    <type fullname="ScheduleDetails" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
