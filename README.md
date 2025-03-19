@@ -31,13 +31,13 @@
 >- 好好和星星岛的居民相处吧！他们都有自己的**每日行程**，请多了解他们吧！
 >- 隐藏的**小惊喜**……？请多多和居民们对话吧！
 >
->![image_3](https://github.com/fengxic/Starland-Time/blob/main/img/Plants.png)
+>![image_3](https://github.com/fengxic/Starland-Time/blob/main/img/Dialogue.png)
 >
 >
 >### 蓝图？制作！
 >- 收集制作材料，通过**蓝图**制作物品。
 >- 摆放您的**物品**！将它们随意摆放在场景里吧！
 >
->![image_4]()
+>![image_4](https://github.com/fengxic/Starland-Time/blob/main/img/Blueprint.png)
 >
->![image_5]()
+>![image_5](https://github.com/fengxic/Starland-Time/blob/main/img/Furniture.png)
